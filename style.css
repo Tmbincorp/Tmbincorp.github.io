@@ -9,6 +9,7 @@ header {
 #navbar {
   display: inline-block;
   margin: 20px;
+  margin-top: 25px;
 }
 #navbar a {
   display: inline-block;
