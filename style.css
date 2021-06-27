@@ -16,6 +16,7 @@ header {
 }
 #navbar a:hover {
   border-bottom: 4px solid orange;
+  transition: 400ms ease;
 }
 #navbar #active {
   border-bottom: 4px solid orange;
