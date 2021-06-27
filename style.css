@@ -2,6 +2,12 @@ body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
 }
+#top-explainer {
+  background-image: linear-gradient(to right, #2196f3, navy);
+}
+#top-explainer h1 {
+  color: white;
+}
 #logo {
   display: inline-flex;
   align-items: center;
