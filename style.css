@@ -4,6 +4,7 @@ body {
 }
 #logo {
   display: inline-block;
+  font-size: 40px;
 }
 header {
   border-bottom: 1.50px solid gainsboro;
