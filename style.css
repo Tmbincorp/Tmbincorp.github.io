@@ -9,7 +9,7 @@ header {
 #navbar {
   display: inline-block;
   margin: 20px;
-  margin-top: 25px;
+  margin-top: 24px;
 }
 #navbar a {
   display: inline-block;
@@ -20,9 +20,9 @@ header {
   margin-right: 10px;
 }
 #navbar a:hover {
-  border-bottom: 4px solid orange;
+  border-bottom: 4px solid yellow;
   transition: 400ms ease;
 }
 #navbar #active {
-  border-bottom: 4px solid orange;
+  border-bottom: 4px solid yellow;
 }
