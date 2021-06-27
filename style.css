@@ -3,7 +3,8 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 #logo {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   font-size: 25px;
   text-decoration: none;
   padding: 10px;
@@ -15,6 +16,7 @@ header {
   border-bottom: 1.50px solid gainsboro;
   display: flex;
   user-select: none;
+  padding: 20px;
 }
 #navbar {
   display: inline-block;
