@@ -7,6 +7,9 @@ body {
   padding-top: 80px;
   padding-bottom: 80px;
 }
+special-button {
+  background-image: linear-gradient(to bottom right, teal, navy);
+}
 #top-explainer h1 {
   color: white;
   font-size: 60px;
