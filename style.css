@@ -1,13 +1,18 @@
+body {
+  margin: 0px;
+}
 header {
   border-bottom: 1.50px solid gainsboro;
 }
 #navbar {
-  margin: 10px;
   display: inline-block;
 }
 #navbar a {
   display: inline-block;
+  color: black;
+  text-decoration: none;
   border-bottom: 4px solid transparent;
+  padding: 20px;
 }
 #navbar a:hover {
   border-bottom: 4px solid orange;
