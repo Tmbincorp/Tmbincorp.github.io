@@ -3,10 +3,11 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 #top-explainer {
-  background-image: linear-gradient(to right, #2196f3, navy);
+  background-image: linear-gradient(to bottom, #2196f3, navy);
 }
 #top-explainer h1 {
   color: white;
+  font-size: 30px;
 }
 #logo {
   display: inline-flex;
