@@ -33,7 +33,7 @@ header {
 }
 #navbar a:hover {
   border-bottom: 4px solid yellow;
-  transition: 400ms ease;
+  transition: 800ms ease;
 }
 #navbar #active {
   border-bottom: 4px solid yellow;
