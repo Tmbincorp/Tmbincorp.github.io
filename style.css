@@ -6,6 +6,10 @@ body {
   display: inline-block;
   font-size: 25px;
   text-decoration: none;
+  padding: 20px;
+  border-radius: 40px;
+  background-color: black;
+  color: white;
 }
 header {
   border-bottom: 1.50px solid gainsboro;
