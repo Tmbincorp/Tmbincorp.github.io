@@ -5,6 +5,7 @@ body {
 header {
   border-bottom: 1.50px solid gainsboro;
   display: flex;
+  user-select: none;
 }
 #navbar {
   display: inline-block;
