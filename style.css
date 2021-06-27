@@ -4,10 +4,12 @@ body {
 }
 #top-explainer {
   background-image: linear-gradient(to bottom right, #2196f3, navy);
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 #top-explainer h1 {
   color: white;
-  font-size: 30px;
+  font-size: 50px;
 }
 #logo {
   display: inline-flex;
