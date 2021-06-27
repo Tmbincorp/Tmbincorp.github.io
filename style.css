@@ -8,10 +8,17 @@ body {
   padding-bottom: 80px;
 }
 #special-button {
-  background-image: linear-gradient(to bottom right, teal, navy);
+  margin-top: 20px;
   padding: 20px;
+  background-color: teal;
   border-radius: 15px;
+  text-decoration: none;
   color: white;
+  border: 4px solid teal;
+}
+#special-button {
+  transition: 400ms ease;
+  background-image: linear-gradient(to bottom right, teal, navy);
 }
 #top-explainer h1 {
   color: white;
