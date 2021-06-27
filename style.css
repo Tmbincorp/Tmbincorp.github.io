@@ -15,8 +15,9 @@ body {
   text-decoration: none;
   color: white;
   border: 4px solid teal;
+  font-size: 35px;
 }
-#special-button {
+#special-button:hover {
   transition: 400ms ease;
   background-image: linear-gradient(to bottom right, teal, navy);
 }
