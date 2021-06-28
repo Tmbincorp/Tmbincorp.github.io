@@ -2,7 +2,7 @@ body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
 }
-.arrow-right .top-explainer {
+.arrow-right.top-explainer {
   margin-right: 10px;
 }
 .link.arrows {
