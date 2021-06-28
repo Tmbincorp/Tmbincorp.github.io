@@ -2,7 +2,7 @@ body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
 }
-#link#arrows {
+.link.arrows {
   color: white;
   font-size: 35px;
   text-decoration: none;
