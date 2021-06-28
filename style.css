@@ -116,6 +116,7 @@ header {
   padding: 20px;
   border-radius: 30px;
   background-image: linear-gradient(to bottom right, cyan, cyan);
+  width: 100%;
 }
 .contribute.zone a:hover {
   transition: 800ms ease;
