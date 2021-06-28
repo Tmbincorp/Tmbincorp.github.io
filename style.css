@@ -27,6 +27,7 @@ body {
   text-decoration: none;
   border: 1.50px solid gainsboro;
   border-radius: 10px;
+  text-align: center;
 }
 .link.arrows:hover {
   transition: 800ms ease;
