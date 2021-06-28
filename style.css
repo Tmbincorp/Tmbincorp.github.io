@@ -7,7 +7,13 @@ body {
   font-size: 35px;
   text-decoration: none;
   display: flex;
+  padding: 30px;
   align-items: center;
+}
+
+.link.arrows:hover {
+  transition: 800ms ease;
+  color: gainsboro;
 }
 #top-explainer {
   background-image: linear-gradient(to bottom right, #2196f3, navy);
