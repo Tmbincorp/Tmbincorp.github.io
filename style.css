@@ -20,7 +20,10 @@ body {
 }
 .list-projects.home.items {
   display: inline-block;
-  padding: 40px;
+  width: 40px;
+  max-width: 40px;
+  height: 40px;
+  max-height: 40px;
   margin-left: 10px;
   margin-right: 10px;
   color: black;
