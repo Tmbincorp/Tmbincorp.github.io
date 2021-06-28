@@ -87,3 +87,12 @@ header {
   background-color: #424242;
   color: white;
 }
+.block.div.whyopensource {
+  background-color: black;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#whyopensource {
+  color: white;
+  text-align: center;
+}
