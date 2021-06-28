@@ -10,15 +10,16 @@ body {
   padding: 20px;
   align-items: center;
 }
-
 .link.arrows:hover {
   transition: 800ms ease;
-  color: gainsboro;
+  color: cyan;
 }
 #top-explainer {
   background-image: linear-gradient(to bottom right, #2196f3, navy);
   padding-top: 80px;
   padding-bottom: 80px;
+  padding-right: 40px;
+  padding-left: 40px;
 }
 #top-explainer h1 {
   color: white;
