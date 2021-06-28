@@ -103,3 +103,21 @@ header {
 #whyopensource p {
   font-size: 35px;
 }
+.contribute.zone {
+  display: flex;
+  justify-content: center;
+}
+.contribute.zone h1 {
+  font-size: 60px;
+}
+.contribute.zone a {
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  border-radius: 30px;
+  background-image: linear-gradient(to bottom right, cyan, cyan);
+}
+.contribute.zone a:hover {
+  transition: 800ms ease;
+  background-image: linear-gradient(to bottom right, cyan, navy);
+}
