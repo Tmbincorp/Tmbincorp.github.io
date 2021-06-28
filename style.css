@@ -96,3 +96,9 @@ header {
   color: white;
   text-align: center;
 }
+#whyopensource h1 {
+  font-size: 80px;
+}
+#whyopensource p {
+  font-size: 35px;
+}
