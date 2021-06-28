@@ -2,6 +2,9 @@ body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
 }
+.arrow-right .top-explainer {
+  margin-right: 10px;
+}
 .link.arrows {
   color: white;
   font-size: 35px;
@@ -9,6 +12,7 @@ body {
   display: inline-flex;
   padding: 20px;
   align-items: center;
+  font-family: 'Source Code Pro', monospace;
 }
 .link.arrows:hover {
   transition: 800ms ease;
