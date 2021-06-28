@@ -122,3 +122,7 @@ header {
   transition: 800ms ease;
   background-image: linear-gradient(to bottom right, cyan, navy);
 }
+footer {
+  padding: 30px;
+  border-top: 1.50px solid gainsboro;
+}
