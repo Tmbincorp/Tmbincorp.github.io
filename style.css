@@ -2,8 +2,12 @@ body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
 }
-#link#arrow {
-  
+#link#arrows {
+  color: white;
+  font-size: 35px;
+  text-decoration: none;
+  display; flex;
+  align-items: center;
 }
 #top-explainer {
   background-image: linear-gradient(to bottom right, #2196f3, navy);
