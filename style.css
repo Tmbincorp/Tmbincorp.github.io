@@ -2,6 +2,9 @@ body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
 }
+#link#arrow {
+  
+}
 #top-explainer {
   background-image: linear-gradient(to bottom right, #2196f3, navy);
   padding-top: 80px;
