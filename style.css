@@ -77,9 +77,9 @@ header {
   text-decoration: none;
   padding: 20px;
   border-radius: 15px;
+  transition: .2s;
 }
 #navbar a:hover {
-  transition: 800ms ease;
   background-color: #424242;
   color: white;
 }
